@@ -42,7 +42,7 @@ SQL Automate - A DBA's Time-Saving Toolkit
 - Run `master.ps1` and choose option `2`
 - Follow on-screen prompts
 
-For a complete, step-by-step walkthrough with screenshots and explanations, visit the blog post:
+For a complete, step-by-step walkthrough with screenshots and explanations, visit the blog post: https://deepamghosh.wordpress.com/2025/04/30/sql-automate-a-dbas-time-saving-toolkit/
 
 
 ## Notes

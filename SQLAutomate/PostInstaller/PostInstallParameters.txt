@@ -1,0 +1,6 @@
+SQLInstance=HOSTNAME\INSTANCENAME
+Database=master
+UserID=sa
+Password=#Jv35683$%R
+SQLScriptFolder=C:\Users\Deepam.Ghosh\Desktop\SQLAutomate\PostInstaller\Scripts\SQL_Scripts
+PsScriptFolder=C:\Users\Deepam.Ghosh\Desktop\SQLAutomate\PostInstaller\Scripts\PS_Scripts
